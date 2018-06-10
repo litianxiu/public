@@ -1,0 +1,2 @@
+# public
+public C++ resource
